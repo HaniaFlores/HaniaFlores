@@ -20,8 +20,33 @@ I'm Hania Flores, a student at Brigham Young University-Idaho interested in Soft
 
 ## Technologies and Tools
 
-- Proficient in: JavaScript, HTML, CSS, SQL, Git, Node.js, .NET, Salesforce, Microsoft Power Apps, NectarDesk, Zendesk.
+- Proficient in: JavaScript, HTML, CSS, SQL, Git, Node.js, .NET, C#, Salesforce, Microsoft Power Apps, NectarDesk, Zendesk.
 - Skills: Teamwork & Collaboration, Adaptability, Attention to Detail, Problem Solving, Professionalism.
+
+## 🚀 Projects and Work
+
+Here are some of my projects and contributions:
+
+- **[CSE Motors Website](https://github.com/HaniaFlores/cse340-repo)**  
+  A full-stack web application for a fictitious car dealership, applying frontend and backend development skills with Node.js, PostgreSQL, and deployment on Render.
+
+- **[Geo-Heart API](https://github.com/HaniaFlores/cse341_geo-heart)**  
+  A RESTful API built with Node.js and MongoDB that manages sites, categories, and reviews with authentication, CRUD operations, and unit testing for a location-based app.
+
+- **[C# Data Structures Projects](https://github.com/HaniaFlores/cse212-projects)**  
+  A collection of C# programs exploring core data structures and algorithms, focusing on problem solving, performance evaluation, testing, and Big O analysis.
+
+➡️ You can find more in my [repositories](https://github.com/HaniaFlores?tab=repositories).
+
+---
+
+## 📊 GitHub Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaniaFlores&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaniaFlores&theme=radical)
+
+---
 
 ## Let's Connect!
 
